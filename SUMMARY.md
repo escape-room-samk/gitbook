@@ -11,7 +11,9 @@
 * [Server](server/README.md)
   * [Backend](server/backend.md)
   * [Frontend](server/frontend.md)
-* [Logs](logs.md)
+* [Logs](logs/README.md)
+  * [Agenda](logs/agenda.md)
+  * [Tasks](logs/tasks.md)
 * [sources](sources.md)
 * [attachments](attachments.md)
 
