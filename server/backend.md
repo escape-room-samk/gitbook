@@ -4,8 +4,6 @@
 
 **Node.js** is an [open-source](https://en.wikipedia.org/wiki/Open-source_software), [cross-platform](https://en.wikipedia.org/wiki/Cross-platform) [JavaScript](https://en.wikipedia.org/wiki/JavaScript) [run-time environment](https://en.wikipedia.org/wiki/Runtime_system) that executes JavaScript code outside of a browser. JavaScript is used primarily for [client-side scripting](https://en.wikipedia.org/wiki/Client-side_scripting), in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. Node.js lets developers use JavaScript to write command line tools and for [server-side scripting](https://en.wikipedia.org/wiki/Server-side_scripting)—running scripts server-side to produce [dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page) content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm,[\[7\]](https://en.wikipedia.org/wiki/Node.js#cite_note-7) unifying [web application](https://en.wikipedia.org/wiki/Web_application) development around a single programming language, rather than different languages for server side and client side scripts.
 
-
-
 ## Installation
 
 ```text
@@ -80,10 +78,6 @@ Could not find a cake matching this query.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-
-
-
-
 {% api-method method="post" host="https://172.17.2.10" path="/api/motionsensor" %}
 {% api-method-summary %}
 Motion Sensor
@@ -130,8 +124,6 @@ Could not find a cake matching this query.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-
-
 {% api-method method="post" host="https://172.17.2.10" path="/api/rfidReader" %}
 {% api-method-summary %}
 RFID Sensor
@@ -177,8 +169,6 @@ Could not find a cake matching this query.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
 {% api-method method="post" host="https://172.17.2.10" path="/api/imageReader" %}
 {% api-method-summary %}
@@ -229,8 +219,4 @@ Could not find a cake matching this query.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
-
-
 
