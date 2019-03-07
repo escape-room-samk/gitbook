@@ -155,9 +155,13 @@ The Camera Module can be used to take high-definition video, as well as stills p
 
 ![Raspberry Pi Cam](../.gitbook/assets/raspicamv2-01-700x700.jpg)
 
-## 
+## Installation
 
+```text
+git clone https://github.com/escape-room-samk/MAZE-Allbot.git
+```
 
+You need to install Arduino on your computer, copy the code and upload it to the Allbot.
 
 
 
