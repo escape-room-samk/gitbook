@@ -20,7 +20,7 @@ The Allbot owns three cards on it. The first one is the **Arduino** card, the se
 
 ### Allbot
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 #### Features __
 
@@ -49,7 +49,7 @@ The Allbot owns three cards on it. The first one is the **Arduino** card, the se
 
 ### ARDUINO® UNO REV.3
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 The Arduino Uno is a microcontroller board based on the ATmega328. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.  
 The Uno differs from all preceding boards in that it does not use the FTDI USB-to-serial driver chip. Instead, it features the Atmega16U programmed as a USB-to-serial converter.
@@ -75,7 +75,7 @@ The Uno differs from all preceding boards in that it does not use the FTDI USB-t
 
 ### ARDUINO® MEGA2560 REV3
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 The Arduino Mega 2560 is a microcontroller board based on the ATmega2560. It has 54 digital input/output pins \(of which 14 can be used as PWM outputs\), 16 analog inputs, 4 UARTs \(hardware serial ports\), a 16 MHz crystal oscillator, a USB connection, a power jack, an ICSP header, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started. The Mega is compatible with most shields designed for the Arduino Uno, Duemilanove or Diecimila.
 
@@ -108,7 +108,7 @@ Additional features coming with the R3 version are:
 
 ### ALLBOT® OPTION: SMARTPHONE IR TRANSMITTER
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 #### **Features**
 
