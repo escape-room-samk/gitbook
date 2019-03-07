@@ -8,6 +8,10 @@ The **QR Reader** reads the data that is processed on the basis of the puzzle.
 
 ![QR code example ](../.gitbook/assets/qr_code_for_mobile_english_wikipedia.svg.png)
 
+## Story
+
+\[TODO\]
+
 ## Materials
 
 ### Raspberry Pi 3B
