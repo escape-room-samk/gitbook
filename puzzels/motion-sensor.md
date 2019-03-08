@@ -60,5 +60,13 @@ Windows 8 \(64-bit\) Windows 8.1 \(64-bit\) Windows Embedded Standard 8 \(64-bit
 
 Microsoft Visual Studio 2013 Express or any other Visual Studio 2013 edition, Microsoft Visual Studio 2012 Express or any other Visual Studio 2012 edition .NET Framework 4.0 Microsoft Speech Platform SDK v11 for developing speech-enabled applications for Kinect for Windows
 
+## Installation
 
+Clone the following git and follow the readme.md file for more information.
+
+```text
+https://github.com/escape-room-samk/Kinect.git
+```
+
+you need visual studio to open the solution.
 

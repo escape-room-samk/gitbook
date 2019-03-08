@@ -24,6 +24,10 @@ Set up camera, find correct lens.
 
 Outlook Calendar organization, distrubution of tasks depending on student background.
 
+### Motion sensor \(Colin\)
+
+Looking for some good example code from the kinect on windows forums. testing different environments to code in.
+
 ## Week 7.
 
 ### Allbot \(Nicolas & Jaime\)
@@ -55,6 +59,10 @@ Whole configuration of Insight explorer, detecting different shapes.
 Seting up outputs, from I/O Module. 
 
 Communicate cognex camera - I/O Module - Raspberry Pi
+
+### Motion sensor \(Colin\)
+
+Start with coding and adding different body positions to a personal library.
 
 ## Week 8.
 
@@ -114,11 +122,19 @@ Send data to Backend.
 
 Set up demo questions and send data to Backend
 
+### Motion sensor \(Colin\)
+
+Adding the semaphore alphabet and sending data to server.
+
 ## Week 10.
 
 ### Allbot \( Nicolas & Jaime\)
 
 We had little problems when we tried to stream the image from the Pi 3, but we solved them and now the Allbot carries a Raspberry that streams the image. We printed a case for the Pi 3, so the image will be stable. 
+
+### Motion sensor \(Colin\)
+
+fixing some little bugs and changing the arms.
 
 ## Week 11.
 
