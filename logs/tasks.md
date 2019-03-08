@@ -2,43 +2,59 @@
 
 ## Week 6. 
 
-\[04/02/2018-04/02/2018\]
+\[04/02/2018-08/02/2018\]
 
-### Allbot \( Nicolas & Jaime\)
+### Allbot \(Nicolas & Jaime\)
 
 In the first week, we receive the project, made a brainstorming to see what ideas can be done and we select the best ones. We divided the tasks and the puzzles. As the Allbot uses Arduino, we first introduce ourselves to it. There are different programs that we needed, and we had to install them and start to control them.
 
-### Sound Detector \( Sybren\)
+### Sound Detector \(Sybren\)
 
 Reading out sound signals and Reading clap
 
-### QR Reader \( Sybren\)
+### QR Reader \(Sybren\)
 
 Scan QR Code's 
 
+### Cognex Camera \(Nacho\)
+
+Set up camera, find correct lens.
+
+### Project plan \(Nacho and Jaime\)
+
+Outlook Calendar organization, distrubution of tasks depending on student background.
+
 ## Week 7.
 
-### Allbot \( Nicolas & Jaime\)
+### Allbot \(Nicolas & Jaime\)
 
 We design how is going to be the maze, and we decided to put the camera in the top of the robot instead of install three different cameras in the maze. We get the IR transmitter and we tried to connect to the Allbot but without exit.
 
-### Backend \( Sybren\)
+### Backend \(Sybren\)
 
 Learn the new environment of NodeJS en setup the backend to recieve all of the data. 
 
 Setup a Database in Mongoose for NodeJS
 
-### RFID Reader \( Sybren\)
+### RFID Reader \(Sybren\)
 
 Scan QR Code's 
 
-### Network \( Sybren\)
+### Network \(Sybren\)
 
 Setup the network envirement and configure DHCP Leases
 
-### schematics  \( Sybren\)
+### Schematics  \(Sybren\)
 
 Desing the first scematic of the porject plan
+
+### Insight explorer \(Nacho\)
+
+Whole configuration of Insight explorer, detecting different shapes.
+
+Seting up outputs, from I/O Module. 
+
+Communicate cognex camera - I/O Module - Raspberry Pi
 
 ## Week 8.
 
@@ -56,7 +72,7 @@ Learn the new environment of NodeJS en setup the backend to recieve all of the d
 
 Setup a Database in Mongoose for NodeJS
 
-### Frontend \(Sybren & Colin \)
+### Frontend \(Sybren & Colin\)
 
 #### Sybren
 
@@ -68,7 +84,7 @@ Display al the data from the backend on the screen and display the camera image 
 
  Researche in ReactJS and filtering the Database Query 
 
-### RFID Reader \( Sybren & Nacho\)
+### RFID Reader \(Sybren & Nacho\)
 
 #### Sybren
 
@@ -78,13 +94,25 @@ Send the RFID code to the Backend
 
 Setup the Demo Questions for the Escape Room
 
-### Network \(Sybren & Nacho \)
+### Network \(Sybren & Nacho\)
 
 Keep the network up to date with the new devices 
 
+#### Nacho
+
+Set up new Router and keep new devices connected
+
 ### Schematics  \(Sybren\)
 
-Desing the first scematic of the porject plan
+Desing the first scematic of the porject plan.
+
+### Cognex Camera \(Nacho\)
+
+Send data to Backend.
+
+### QR Reader \(Nacho\)
+
+Set up demo questions and send data to Backend
 
 ## Week 10.
 
