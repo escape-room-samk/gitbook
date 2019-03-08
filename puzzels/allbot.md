@@ -6,13 +6,13 @@ The user will have to control the Allbot and to make him advance in the maze tha
 
 The Allbot is initially in the centre of the maze and the task of the user is to make him go out of this maze. During his path, the user will see some letters on the walls and he will have to say them to his colleague, who is going to make the exact position corresponding to the letter in front of the Kinect to valid it. When the user will have all the letters and that the other person will have make all the correct positions, the final word is “KIPPIS”.
 
-![Maze](../.gitbook/assets/image%20%281%29.png)
+![Maze](../.gitbook/assets/image%20%282%29.png)
 
 ## About the Allbot  
 
 To make this part of the work, we have used a robot which is named “**Allbot**”. This robot owns four legs with four knees and moves thanks to eight **servomotors**. Each leg can rotate horizontally for around 150° and each knee can rotate vertically for 180°, that means that there are two servomotors for each leg for the two moves. So, the Allbot can walk forward, backward, on the side, … thanks to some combination of rotation of the legs and the knees.
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 The Allbot is controlled by an application which is available on every **smartphone**, the app is called “ALLBOT”. To control the robot with this app, an IR transmitter is required, it’s an extern module which will send the instruction of the smartphone to the robot. On this app, there are several options of moves like walking forward, backward, on the side or orientate on a side or to make a move with the legs to say “Hello” … There is also a scale to adjust the speed of the moves of the legs. The possibility to produce a sound is also available.
 
@@ -22,7 +22,7 @@ The Allbot owns three cards on it. The first one is the **Arduino** card, the se
 
 ### Allbot
 
-![Allbot](../.gitbook/assets/image%20%2814%29.png)
+![Allbot](../.gitbook/assets/image%20%2817%29.png)
 
 #### Features __
 
@@ -51,7 +51,7 @@ The Allbot owns three cards on it. The first one is the **Arduino** card, the se
 
 ### ARDUINO® UNO REV.3
 
-![Arduino card](../.gitbook/assets/image%20%2816%29.png)
+![Arduino card](../.gitbook/assets/image%20%2819%29.png)
 
 The Arduino Uno is a microcontroller board based on the ATmega328. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.  
 The Uno differs from all preceding boards in that it does not use the FTDI USB-to-serial driver chip. Instead, it features the Atmega16U programmed as a USB-to-serial converter.
@@ -77,7 +77,7 @@ The Uno differs from all preceding boards in that it does not use the FTDI USB-t
 
 ### ARDUINO® MEGA2560 REV3
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 The Arduino Mega 2560 is a microcontroller board based on the ATmega2560. It has 54 digital input/output pins \(of which 14 can be used as PWM outputs\), 16 analog inputs, 4 UARTs \(hardware serial ports\), a 16 MHz crystal oscillator, a USB connection, a power jack, an ICSP header, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started. The Mega is compatible with most shields designed for the Arduino Uno, Duemilanove or Diecimila.
 
@@ -93,7 +93,7 @@ Additional features coming with the R3 version are:
 
 ### ALLBOT® BATTERY SHIELD
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 #### **Features**
 
@@ -110,7 +110,7 @@ Additional features coming with the R3 version are:
 
 ### ALLBOT® OPTION: SMARTPHONE IR TRANSMITTER
 
-![IR transmitter](../.gitbook/assets/image%20%287%29.png)
+![IR transmitter](../.gitbook/assets/image%20%289%29.png)
 
 #### **Features**
 
@@ -156,6 +156,50 @@ The Raspberry Pi Camera Module v2 replaced the original Camera Module in April 2
 The Camera Module can be used to take high-definition video, as well as stills photographs. It’s easy to use for beginners, but has plenty to offer advanced users if you’re looking to expand your knowledge. There are lots of examples online of people using it for time-lapse, slow-motion, and other video cleverness. You can also use the libraries we bundle with the camera to create effects.
 
 ![Raspberry Pi Cam](../.gitbook/assets/raspicamv2-01-700x700.jpg)
+
+## Servomotor
+
+A servo motor is an electric device used for precise control of angular rotation. It is used in applications that demand precise control over motion, like in case of control of a robotic arm.
+
+The rotation angle of the servo motor is controlled by applying a PWM signal to it.
+
+By varying the width of the PWM signal, we can change the rotation angle and direction of the motor.
+
+![Servomotor](../.gitbook/assets/image%20%281%29.png)
+
+#### **Features**
+
+* ATmega328P microcontroller
+* Input voltage – 7-12V
+* 14 Digital I/O Pins \(6 PWM outputs\)
+* 6 Analog Inputs
+* 32k Flash Memory
+* 16Mhz Clock Speed
+
+| Product Dimensions |  |
+| :--- | :--- |
+| Width | 30mm |
+| Height  | 30mm |
+| Depth | 10mm |
+
+| Power Source Details |  |
+| :--- | :--- |
+| DC Voltage  | 3.5V-6V |
+
+## Battery 
+
+A battery from GPBM Security is used to give alimentation to the Allbot. If the user uses the Allbot continually without stops, the battery's life would be for around 15 to 20 min. 
+
+![Battery](../.gitbook/assets/image%20%2811%29.png)
+
+GPBM Security 
+
+* GPP/N:GPRHC162N/GP160AAH6YMX
+* Backup Battery : Powermax PM1
+* NiMH 7.2V    1600mAh
+* GPBM P/N : 300552
+* gpbmnordic.com
+* Mfg date : SD 
 
 ## Installation
 

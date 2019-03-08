@@ -17,14 +17,14 @@ In the room there are three pieces of QR code which are hidden separately that t
         <p></p>
         <p></p>
         <p>
-          <img src="../.gitbook/assets/image (5).png" alt="Full QR code" />
+          <img src="../.gitbook/assets/image (6).png" alt="Full QR code" />
         </p>
       </td>
       <td style="text-align:left">
         <p></p>
         <p></p>
         <p>
-          <img src="../.gitbook/assets/image (12).png" alt="Part of QR code" />
+          <img src="../.gitbook/assets/image (15).png" alt="Part of QR code" />
         </p>
       </td>
     </tr>
@@ -32,13 +32,13 @@ In the room there are three pieces of QR code which are hidden separately that t
       <td style="text-align:left">
         <p></p>
         <p>
-          <img src="../.gitbook/assets/image (11).png" alt="Part of QR code" />
+          <img src="../.gitbook/assets/image (14).png" alt="Part of QR code" />
         </p>
       </td>
       <td style="text-align:left">
         <p></p>
         <p>
-          <img src="../.gitbook/assets/image (8).png" alt="Part of QR code" />
+          <img src="../.gitbook/assets/image (10).png" alt="Part of QR code" />
         </p>
       </td>
     </tr>

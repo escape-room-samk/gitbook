@@ -2,7 +2,7 @@
 
 ## Story 
 
-In the room, there several objects which are hidden. The user will have to find the correct objects to present them under the camera to be valid. The user doesn’t know which object he has to present under the camera so he will have to try some of them to see which ones are correct.
+In the room, there several objects which are hidden. The user will have to respond to some question and the answer will indicate him which kind of object he has to search in the room. After he found the correct objects, he has to present them under the camera to be valid. Without the answer of the question, the user doesn’t know which object he has to present under the camera  so if he doesn't know the answer he will have to try some of them to see which ones are correct.
 
 ## About
 

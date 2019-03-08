@@ -6,15 +6,15 @@ The user will be in front of the Kinnect and his colleague will tell him the dif
 
 ![Signboard](../.gitbook/assets/image.png)
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
-![Send data](../.gitbook/assets/image%20%289%29.png)
+![Send data](../.gitbook/assets/image%20%2812%29.png)
 
 
 
 ## Materials
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 Kinect for Windows is versatile. It can see people’s full body movement as well as small hand gestures. Up to xix people can be tracked as whole skeletons. The Kinect for Windows v2 Sensor has an RGB \(red-green-blue\) camera for color video, and an infrared emitter and camera that measure depth in millimeter resolutions. The Kinect for Windows v2 Sensor enables a wide variety of interactions, but any sensor has “sweet spots” and limitations.
 
@@ -49,6 +49,16 @@ The camera detects the red, green, and blue color components as well as body-typ
 The depth sensor contains a monochrome CMOS sensor and infrared projector that help create the 3D imagery throughout the room. It also measures the distance of each point of the player's body by transmitting invisible near-infrared light and measuring its "time of flight" after it reflects off the objects.
 
 These components come together to detect and track 48 different points on each player's body and repeats 30 times every second.
+
+## Adaptater 
+
+### Xbox Kinect Adapter for Xbox One S and Windows 10 PC
+
+Experience the convenience and versatility of the Xbox One Kinect Sensor on your Xbox One S or Windows PC. Whether you want to navigate your new console without lifting a finger or develop interactive apps on your PC, the Kinect Adapter makes it happen.
+
+Valid for the Xbox One S consoles only. Not for use with other Xbox consoles.
+
+![](../.gitbook/assets/image%20%288%29.png)
 
 ## System requirements
 

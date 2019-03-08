@@ -18,7 +18,7 @@ RFID belongs to a group of technologies referred to as Automatic Identification 
 This RC522 RFID Kit includes a 13.56MHz RF reader module that uses an RC522 IC and two S50 RFID cards to help you learn and add the 13.56 MHz RF transition to your project. The MF RC522 is a highly integrated transmission module for contact-less communication at 13.56 MHz. RC522 supports ISO 14443A/MIFARE mode.  
  The module uses SPI to communicate with microcontrollers. The open-hardware community already has a lot of projects exploiting the RC522 – RFID Communication, using Arduino.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 #### **Features**
 
