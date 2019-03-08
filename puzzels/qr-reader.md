@@ -4,15 +4,46 @@
 
 In the room there are three pieces of QR code which are hidden separately that the user will have to find. When he will have collected all the pieces, he will have to superimpose them in several way to find the good one. The QR codes are transparent, so he has a lot of possibility to adjust them in all the directions. To verify if it's the correct adjustment, the user will use his phone with the QR reader everytime he thinks that it's the good one. 
 
-![Full QR code](../.gitbook/assets/image%20%285%29.png)
-
-![Part of QR code](../.gitbook/assets/image%20%2812%29.png)
-
-![Part of QR code](../.gitbook/assets/image%20%2811%29.png)
-
-![Part of QR code](../.gitbook/assets/image%20%288%29.png)
-
-## About
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p></p>
+        <p>
+          <img src="../.gitbook/assets/image (5).png" alt="Full QR code" />
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p></p>
+        <p>
+          <img src="../.gitbook/assets/image (12).png" alt="Part of QR code" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src="../.gitbook/assets/image (11).png" alt="Part of QR code" />
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src="../.gitbook/assets/image (8).png" alt="Part of QR code" />
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>## About
 
 The **QR Reader** reads the data that is processed on the basis of the puzzle.
 
