@@ -4,6 +4,10 @@
 
 \[04/02/2018-08/02/2018\]
 
+### Brainstorming
+
+we decided to spend enough time to see as many different ideas as possible. So we used the brainstorming to collect them and write them down. Finally we select the most original and achievable ones.
+
 ### Allbot \(Nicolas & Jaime\)
 
 In the first week, we receive the project, made a brainstorming to see what ideas can be done and we select the best ones. We divided the tasks and the puzzles. As the Allbot uses Arduino, we first introduce ourselves to it. There are different programs that we needed, and we had to install them and start to control them.
@@ -18,7 +22,11 @@ Scan QR Code's
 
 ### Cognex Camera \(Nacho\)
 
-Set up camera, find correct lens.
+Install neccessary software from COGNEX website \(In-Sight Explorer 4.9.3\)
+
+Set up the camera in a tripod so that we can keep it in the same position.
+
+Study the different kind of lenses available and select the best one for this application.
 
 ### Project plan \(Nacho and Jaime\)
 
@@ -54,11 +62,11 @@ Desing the first scematic of the porject plan
 
 ### Insight explorer \(Nacho\)
 
-Whole configuration of Insight explorer, detecting different shapes.
+Whole configuration of Insight explorer, detecting different shapes. We started detecting different random objects, and finally defined the objects that we use in the scape room.
 
-Seting up outputs, from I/O Module. 
+Seting up outputs, from I/O Module. We connected the module and created an electrical box to be able to control it easily.
 
-Communicate cognex camera - I/O Module - Raspberry Pi
+Communicate cognex camera - I/O Module - Raspberry Pi. We also connected the Raspberry Pi 3B to the Cognex Module so that they can communicate each other.
 
 ### Motion sensor \(Colin\)
 
@@ -100,7 +108,7 @@ Send the RFID code to the Backend
 
 #### Nacho
 
-Setup the Demo Questions for the Escape Room
+Setup the Demo Questions for the Escape Room. In this case we decided to hide the rfid cards in books so that they will give a hint to the user when they find them. The result of the program is an String sent to Backend and seen in Frontend.
 
 ### Network \(Sybren & Nacho\)
 
@@ -108,7 +116,7 @@ Keep the network up to date with the new devices
 
 #### Nacho
 
-Set up new Router and keep new devices connected
+Set up new end point and connect wifi. We found a new endpoint so we set it up to all devices. This way we can communicate with the server without any ethernet cable. Every device has its own IP.
 
 ### Schematics  \(Sybren\)
 
@@ -116,11 +124,11 @@ Desing the first scematic of the porject plan.
 
 ### Cognex Camera \(Nacho\)
 
-Send data to Backend.
+Send data to Backend. We made a code so that the questions begin to appear on the screen and it is when you place the correct object behind the camera when you go to the next one until the end.
 
 ### QR Reader \(Nacho\)
 
-Set up demo questions and send data to Backend
+Set up demo questions and send data to Backend. We made a code so that it is continously trying to detect a QR Code and when it is the correct one, the Raspberry Pi will send the data to Backend. This way, you will be able to go to next puzzle.
 
 ### Motion sensor \(Colin\)
 

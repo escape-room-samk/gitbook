@@ -75,13 +75,13 @@ An I/O cable is needed to connect an In-Sight sensor to the 1400 I/O Expansion M
 Clone the repository
 
 ```text
-git clone https://github.com/escape-room-samk/imafe-reader.git
+git clone https://github.com/escape-room-samk/image-reader.git
 ```
 
 Run the script with 
 
 ```text
-sudo python camera2.py
+sudo python home/pi/Documents/cognex_camera/camera.py
 ```
 
 Load the job "Numbers\_2802.job" and set the camera Online.
