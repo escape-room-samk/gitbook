@@ -1,5 +1,17 @@
 # QR-Reader
 
+## Story
+
+In the room there are three pieces of QR code which are hidden separately that the user will have to find. When he will have collected all the pieces, he will have to superimpose them in several way to find the good one. The QR codes are transparent, so he has a lot of possibility to adjust them in all the directions. To verify if it's the correct adjustment, the user will use his phone with the QR reader everytime he thinks that it's the good one. 
+
+![Full QR code](../.gitbook/assets/image%20%285%29.png)
+
+![Part of QR code](../.gitbook/assets/image%20%2812%29.png)
+
+![Part of QR code](../.gitbook/assets/image%20%2811%29.png)
+
+![Part of QR code](../.gitbook/assets/image%20%288%29.png)
+
 ## About
 
 The **QR Reader** reads the data that is processed on the basis of the puzzle.
@@ -8,9 +20,7 @@ The **QR Reader** reads the data that is processed on the basis of the puzzle.
 
 ![QR code example ](../.gitbook/assets/qr_code_for_mobile_english_wikipedia.svg.png)
 
-## Story
 
-\[TODO\]
 
 ## Materials
 

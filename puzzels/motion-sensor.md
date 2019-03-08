@@ -4,9 +4,17 @@
 
 The user will be in front of the Kinnect and his colleague will tell him the different letters he sees from the maze. He will have to look on the alphabet signboard to make the exact position corresponding to each letter and he will have to stay three seconds in each position to save the letter. To send the data he will have to make a special position \(arms up\) during three seconds after the entire word.
 
+![Signboard](../.gitbook/assets/image.png)
+
+![](../.gitbook/assets/image%20%2813%29.png)
+
+![Send data](../.gitbook/assets/image%20%289%29.png)
+
+
+
 ## Materials
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 Kinect for Windows is versatile. It can see people’s full body movement as well as small hand gestures. Up to xix people can be tracked as whole skeletons. The Kinect for Windows v2 Sensor has an RGB \(red-green-blue\) camera for color video, and an infrared emitter and camera that measure depth in millimeter resolutions. The Kinect for Windows v2 Sensor enables a wide variety of interactions, but any sensor has “sweet spots” and limitations.
 
