@@ -14,11 +14,12 @@ In the first week, we receive the project, made a brainstorming to see what idea
 
 ### Sound Detector \(Sybren\)
 
-Reading out sound signals and Reading clap
+Testing with Raspberry PI and Reading out sound signals and Reading clap in the hands.    
+Give a output when Clap is detected. 
 
 ### QR Reader \(Sybren\)
 
-Scan QR Code's 
+Trying different camera's for taking picutres with the Raspberry Pi. I want for the raspicam because of the size, quality and price. Taking pictures and schan them for QR Codes
 
 ### Cognex Camera \(Nacho\)
 
@@ -51,6 +52,10 @@ Setup a Database in Mongoose for NodeJS
 ### RFID Reader \(Sybren\)
 
 Scan QR Code's 
+
+### Sound Detector \(Sybren\)
+
+End the Sound detector because there was no time for it. 
 
 ### Network \(Sybren\)
 
