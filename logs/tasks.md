@@ -19,7 +19,7 @@ Give a output when Clap is detected.
 
 ### QR Reader \(Sybren\)
 
-Trying different camera's for taking picutres with the Raspberry Pi. I want for the raspicam because of the size, quality and price. Taking pictures and schan them for QR Codes
+Trying different camera's for taking picutres with the Raspberry Pi. I went for the raspicam because of the size, quality and price. Taking pictures and scan them for QR Codes.
 
 ### Cognex Camera \(Nacho\)
 
@@ -45,13 +45,12 @@ We design how is going to be the maze, and we decided to put the camera in the t
 
 ### Backend \(Sybren\)
 
-Learn the new environment of NodeJS en setup the backend to recieve all of the data. 
-
+Research of diffrent Backends, I went for NodeJS React because of the integration for REST API  
 Setup a Database in Mongoose for NodeJS
 
 ### RFID Reader \(Sybren\)
 
-Scan QR Code's 
+Scan diffrent RFID cards and connect them with REST API to the backend
 
 ### Sound Detector \(Sybren\)
 
@@ -59,11 +58,11 @@ End the Sound detector because there was no time for it.
 
 ### Network \(Sybren\)
 
-Setup the network envirement and configure DHCP Leases
+Setup the network envirement and configure DHCP Leases and the PFSense
 
 ### Schematics  \(Sybren\)
 
-Desing the first scematic of the porject plan
+Design the first scematic of the porject plan
 
 ### Insight explorer \(Nacho\)
 
@@ -89,17 +88,16 @@ We were able to connect to the Allbot. We started with the programming of the Ra
 
 ### Backend \(Sybren\)
 
-Learn the new environment of NodeJS en setup the backend to recieve all of the data. 
-
-Setup a Database in Mongoose for NodeJS
+Learn the new environment of NodeJS en setup the backend to recieve all of the data.   
+Connect al the data to the database 
 
 ### Frontend \(Sybren & Colin\)
 
 #### Sybren
 
-Researche of diffent frontend frameworks, and decided to go for ReactJS. 
+Research of different frontend frameworks, and decided to go for ReactJS. 
 
-Display al the data from the backend on the screen and display the camera image of the allbot.
+Display al the data from the database in one overvieuw.
 
 #### Colin
 
@@ -149,7 +147,19 @@ We had little problems when we tried to stream the image from the Pi 3, but we s
 
 fixing some little bugs and changing the arms.
 
+### Frontend \( Sybren & Colin\)
+
+#### Sybren
+
+add routes and devide the Data to have a interactive site.
+
+#### Colin
+
+add reverse to page when code is done. 
+
 ## Week 11.
+
+### Demo
 
 ## 
 
