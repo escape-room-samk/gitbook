@@ -1,6 +1,2 @@
 # Server
 
-## Linux Ubuntu 
-
-## Docker
-
