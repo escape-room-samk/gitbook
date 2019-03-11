@@ -1,9 +1,5 @@
 # About the Escape Room
 
-|  |  |
-| :---: | :--- |
-
-
 ## Background information and objectives.
 
 The Satakunta University of Applied Sciences is interested in making an escape room. So, we were given the project, and we were asked to use robots and new technologies. We just had to make the puzzles, not build the entire room, since the location of the room is not clear yet.
