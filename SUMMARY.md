@@ -16,4 +16,7 @@
   * [Tasks](logs/tasks.md)
 * [sources](sources.md)
 * [attachments](attachments.md)
+* [Possible improvements](possible-improvements/README.md)
+  * [Allbot](possible-improvements/allbot.md)
+  * [Frontend](possible-improvements/frontend.md)
 
