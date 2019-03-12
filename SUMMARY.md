@@ -18,5 +18,6 @@
 * [attachments](attachments.md)
 * [Possible improvements](possible-improvements/README.md)
   * [Allbot](possible-improvements/allbot.md)
+  * [Kinect](possible-improvements/kinect.md)
   * [Frontend](possible-improvements/frontend.md)
 
